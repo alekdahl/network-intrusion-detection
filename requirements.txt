@@ -1,0 +1,9 @@
+numpy==2.5.4
+pandas==3.0.6
+pyarrow==26.0.0
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+seaborn==0.13.2
+kagglehub==1.0.2
+jupyter==1.1.1

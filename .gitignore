@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (downloaded via kagglehub)
+data/
+*.csv
+*.parquet
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
